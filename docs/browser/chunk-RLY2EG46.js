@@ -1,0 +1,1 @@
+import{Ba as n,Ca as r,Ia as i,La as a,S as o}from"./chunk-UOMBRUH3.js";var f=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=o({type:e,selectors:[["app-form"]],standalone:!0,features:[a],decls:2,vars:0,template:function(t,p){t&1&&(n(0,"p"),i(1,"form works!"),r())}})}}return e})();export{f as FormComponent};
